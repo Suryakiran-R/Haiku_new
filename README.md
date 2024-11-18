@@ -16,3 +16,9 @@ This is a full-stack social media application built using the MERN (MongoDB, Exp
 ```bash
 git clone <repository-url>
 cd mern-social-media
+```
+### 2. Setup the environment file
+You will need to setup your env files for the JWT_SECRET, MONGODB passkey etc before you can make the server work.
+
+
+
