@@ -1,4 +1,4 @@
-# Haiku 
+# Haiku🏡🌱
 ## MERN Social Media Website
 
 This is a full-stack social media application built using the MERN (MongoDB, Express, React, Node.js) stack.
