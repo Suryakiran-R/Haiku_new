@@ -3,6 +3,9 @@
 
 This is a full-stack social media application built using the MERN (MongoDB, Express, React, Node.js) stack.
 
+## Project report
+https://docs.google.com/document/d/1K-keY9uFTLbtu8KHpIYfN6OCFIGn7bWfpGfTtljPwGc/edit?usp=sharing
+
 ## Features
 - User authentication (register and login)
 - Social media features like posts, comments, and more
